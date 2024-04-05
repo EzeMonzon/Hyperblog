@@ -1,2 +1,4 @@
 # Hyperblog
 Un blog para el curso de Platzi.
+<p>Practicando Git y Github para el curso de Platzi, asi mismo seguimos aprendiendo y perfeccionandonos en el mundo IT. Queriendo alcanzar el grado de Data Engineer</p>
+<p>La ruta contiene 37 cursos, este mismo es el numero cinco en dicha ruta</p>
